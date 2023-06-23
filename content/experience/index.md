@@ -95,7 +95,7 @@ March 16, 2023 <br>
 
 
 ## Honors & awards
-1. ### Cyber Shujaa Program Cloud & Network Security 
+1. ### Cyber Shujaa Program: Cloud & Network Security 
 - This was a scholarship to study Cloud Computing services, Cloud Security controls and DevSecOps for 4 months with Microsoft Azure guided labs by Dr Paula, Prof Judy and Instructor Keith at United States International University - Africa. (September -December 2022)
 
 2. ### Cisco®CCNA Introduction to Networks & Routing and Switching Essentials 
