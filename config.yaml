@@ -50,8 +50,8 @@ params:
   profileMode:
     enabled: true
     title: "Manasseh Mwangi"
-    subtitle: "Hi 👋, I'm Manasseh, a **Cloud☁ and DevOps Advocate** and an **I.T** graduate from [**KCA University**](https://www.kcau.ac.ke/).
-    I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an AWS Certified Cloud Practitioner && Cloud Quest Cloud Practitioner. 
+    subtitle: "Hi 👋, I'm Manasseh, a **Cloud ☁ and DevOps Advocate**. In campus I pursued **Bachelor of Science in Information Technology**  from [**KCA University**](https://www.kcau.ac.ke/).
+    I'm passionate about **Backend**, **Cloud** and **DevOps**. I have achieved the AWS Certified Cloud Practitioner && Cloud Quest Cloud Practitioner. 
     I'm currently upskilling and working on freelancing projects. Incase of a vacancy in your organization that fits my portfolio please consider my profile. Thank you."
     imageUrl: "home/mwangi.jpg"
     imageWidth: 220
