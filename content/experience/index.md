@@ -60,19 +60,27 @@ Grade: Second Class Upper Division
 
 ## Certifications
 
+### AWS Cloud Quest: Solutions Architect 
+**Amazon Web Services Training and Certification** <br>
+July 04, 2023 <br>
+[Credential ID VERIFIED](https://www.credly.com/badges/f6df745d-9af6-4057-a3a0-2d308d38e889/public_url)
+
+![](/experience/index/cloudquestachitect.png)
+
+
 ### AWS Cloud Quest Cloud Practitioner 
 **Amazon Web Services Training and Certification** <br>
 June 18, 2023 <br>
 [Credential ID VERIFIED](https://www.credly.com/badges/f7dd61c4-d4aa-4427-8c37-fa904c781aac/public_url)
 
-![](/experience/index/imagequest.png)
+![](/experience/index/cloudquestpractitioner.png)
 
 ### AWS CloudD Practitioner
 **Amazon Web Services Training and Certification** <br>
 December 15, 2021 <br>
 [Credential ID YH0P5SQBHMEEQ5SR](https://aws.amazon.com/verification)
 
-![](/experience/index/imageprac.png)
+![](/experience/index/cloudpractitioner.png)
 
 ### AWS Machine Learning Foundations course
 **Udacity** <br>
