@@ -1,18 +1,19 @@
 ---
-title: "AWS Cloud Quest: Cloud Practitioner adventure"
+title: "AWS Cloud Quest: Solutions Architect adventure"
 author: "Manasseh Mwangi"
-date: 2023-06-22
+date: 2023-07-24
 
 subtitle: "AWS Cloud Quest initiative help build foundational cloud skills"
 
 
 cover:
-    image: "/blog/post2/skillbuilder4.png"
+    image: "/blog/post3/learning path.png"
 
 
 
 tags:
-- Cloud Practitioner
+- AWS Cloud Quest
+- Solutions Architect 
 - AWS
 - Cloud
 - Learning Path
@@ -20,7 +21,7 @@ tags:
 
 
 ---
-![image](/blog/post2/questbadge.png)
+![image](/blog/post3/cloudquestachitect.png)
 
 _Steps to acing the AWS — Certified Cloud Practitioner (CCP) Exam — CLF-C01_
 
@@ -44,8 +45,23 @@ The 12 real-life scenario assignment labs include:
 8. Cloud Economics 
 9. Databases in Practice 
 10. Auto-Healing and Scaling Architecture
-11.  Computing Solutions 
-12.  Cloud First Steps
+11. Computing Solutions 
+12. Cloud First Steps
+13. DNS 
+14. Analyzing Network Traffic
+15. Single-Page App
+16. Container Services 
+17. Decoupling Applications
+18. Auto-Healing and Scaling Applications
+19. Resource Monitoring 
+20. Content Delivery Networks
+21. Backing up Data
+22. Deploying RESTful APIs
+23. Serverless Foundations 
+24. API with Database
+25. Automation with CloudFormation
+26. Resource Governance
+
 
 In the next sections I'll cover 4 main areas in terms of interface and world (it is a game after all), content and quests (how does the knowledge align with the game), user interaction and performance (how does the system and environment perform) and learning experience (how effective is it in teaching cloud concepts and practice). Followed by an overall summary of the review and recommendation compared to some other AWS free education programs.
 

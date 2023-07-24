@@ -7,7 +7,7 @@ subtitle: "Steps to acing the AWS â€” Certified Cloud Practitioner (CCP) Exam â€
 
 
 cover:
-    image: "/blog/post1/learning path.png"
+    image: "/blog/post1/cover.jpg"
 
 
 
