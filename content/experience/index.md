@@ -3,12 +3,20 @@ date: 2023-06-22T01:36:41.827Z
 
 ---
 # **My Resume**
-I am a Cloud and DevOPS advocate with a highly technical background specializing in providing cloud Intelligence to multiple local and international companies. 
+A passionate Cloud advocate with 2 years of experience working in Computer Networks and Cloud Computing. I am specializing in providing insightful and honest strategic recommendations based on the client's business goals 
+to help them realize Digital Transformation and/or adopt a successful Cloud Migration Strategy.  
 
 ## Work Experience
 
+### AWS Community Builder Program
+
+**Community Builder | August 15th 2023 – Present** <br>
+- Collaborate with fellow builders to solve technical challenges.
+- Trying out new AWS Cloud resources before they are launched officially.
+- Share proof of concepts and knowledge on AWS services offered through the use of Devto, Medium or Youtube.
+
 ### Independent Electoral and Boundaries Commission 
-<!-- _Nairobi_ <br> -->
+
 **ICT Clerk** <br>
 _Aug 2022_
 
@@ -16,7 +24,6 @@ _Aug 2022_
 
 
 ### MENTOR SACCO
-<!-- _Nairobi_ <br> -->
 **Information Technology Technical Support** <br>
 _May 2022 to July 2022_
 
@@ -26,7 +33,6 @@ _May 2022 to July 2022_
 - Storage and retrieval of documents through the use of Parallel client’s system in the registry department.
 
 ### Kenya National Bureau of Statistics
-<!-- _Nairobi_ <br> -->
 **Enumerator** <br>
 _Aug 2019_
 
@@ -36,19 +42,20 @@ _Aug 2019_
  ## Skills
 
 **Programming languages**
-
-`Python`
 `C`
 `Java`
+`YAML`
+`Python`
 
 
 **Technical**
-
-`Cloud Development`
-`Networking`
+`Cloud Services`
+`Containerization and Orchestration`
+`Networking and Database Management`
 `Cloud Security`
 `Android Dev`
 `Web Development`
+`Infrastructure as Code(IaC) tools`
 
 ## Education
 

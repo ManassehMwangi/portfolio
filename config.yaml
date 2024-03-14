@@ -1,6 +1,6 @@
 baseURL: "https://manassehmwangi.netlify.app/"
 languageCode: en-us
-title: Manasseh Mwangi
+title: 
 theme: PaperMod
 tags: ["AWS", "Cloud", "Certification", "DevOps"]
 
@@ -50,15 +50,15 @@ params:
   profileMode:
     enabled: true
     title: "Manasseh Mwangi"
-    subtitle: "Hi 👋, I'm Manasseh, a **Cloud ☁ and DevOps Advocate**. In campus I pursued **Bachelor of Science in Information Technology**  from [**KCA University**](https://www.kcau.ac.ke/).
-    I'm passionate about **Backend**, **Cloud** and **DevOps**. I have achieved the AWS Certified Cloud Practitioner && Cloud Quest Cloud Practitioner. 
-    I'm currently upskilling and working on freelancing projects. Incase of a vacancy in your organization that fits my portfolio please consider my profile. Thank you."
+    subtitle: "Hi 👋, I'm passionate about **Cloud ☁**, **DevOps** and **Securtiy**. In campus I pursued **Bachelor of Science in Information Technology**  from [**KCA University**](https://www.kcau.ac.ke/).
+    I have achieved the AWS Certified Cloud Practitioner, Cloud Quest: Cloud Practitioner && Solutions Architect. 
+    I'm currently working on my AWS Solutions Architect Associate and actively seeking an opportunity to join a fast-paced environment that will benefit from my strong tech expertise as I help them realize their goals."
     imageUrl: "home/mwangi.jpg"
     imageWidth: 220
     imageHeight: 220
     buttons:
       - name: Resume
-        url: "https://drive.google.com/file/d/1IXzn2Oop_ZIoFisWrs6I5Qkv8sTEHl--/view?usp=sharing"
+        url: "https://drive.google.com/file/d/1rnxzhYMuFuTTD_wTB48wzn4hQklH8mv9/view?usp=drive_link"
 
     
 
@@ -102,3 +102,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+
+  
