@@ -50,7 +50,7 @@ params:
   profileMode:
     enabled: true
     title: "Manasseh Mwangi"
-    subtitle: "Hi 👋, I'm passionate about **Cloud ☁**, **DevOps** and **Securtiy**. In campus I pursued **Bachelor of Science in Information Technology**  from [**KCA University**](https://www.kcau.ac.ke/).
+    subtitle: "Hi 👋, I'm passionate about **Cloud ☁**, **DevOps** and **Security**. In campus I pursued **Bachelor of Science in Information Technology**  from [**KCA University**](https://www.kcau.ac.ke/).
     I have achieved the AWS Certified Cloud Practitioner, Cloud Quest: Cloud Practitioner && Solutions Architect. 
     I'm currently working on my AWS Solutions Architect Associate and actively seeking an opportunity to join a fast-paced environment that will benefit from my strong tech expertise as I help them realize their goals."
     imageUrl: "home/mwangi.jpg"
